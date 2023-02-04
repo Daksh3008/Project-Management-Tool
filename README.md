@@ -1,5 +1,3 @@
-Created web application for project management where project managers and team members can view their project-related details, and manage projects. It has different modules such as creating projects, editing projects, creating tasks, assigning tasks to members, changing the status of tasks and projects, viewing project reports, and so on.
+developed a web application for project management so that team members and project managers could view and manage projects. It includes many modules, including those for creating projects, amending projects, tasks, assigning tasks to members, updating the status of tasks and projects, reading project reports, and others.
 
-Technology stack is JavaScript, localStorage, Bootstrap, CSS, and other web related technologies.
-
-Demo:  https://drive.google.com/drive/folders/1Et3LEHBvm6_TipODGqpWeU9wNfLOr2Z8?usp=sharing
+Technology stack: HTML, CSS, Bootstrap, Javascript, local storage
